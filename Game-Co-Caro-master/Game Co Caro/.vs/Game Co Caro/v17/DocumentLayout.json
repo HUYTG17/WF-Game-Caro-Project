@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game-Co-Caro-master\\Game Co Caro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|d:\\game-co-caro-master\\game co caro\\game co caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|D:\\Game-Co-Caro-master\\Game Co Caro\\game co caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|D:\\Game-Co-Caro-master\\Game Co Caro\\game co caro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|D:\\Game-Co-Caro-master\\Game Co Caro\\game co caro\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|D:\\Game-Co-Caro-master\\Game Co Caro\\game co caro\\contain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\contain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|D:\\Game-Co-Caro-master\\Game Co Caro\\game co caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29E459-EEF4-42A4-8868-F2A1ACBF6A02}|Game Co Caro\\Game Co Caro.csproj|solutionrelative:game co caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Game Co Caro\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:26:32.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Game Co Caro\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:26:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contain.cs",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Contain.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Contain.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Contain.cs",
+              "RelativeToolTip": "Game Co Caro\\Contain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:24:55.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Program.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Program.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Program.cs",
+              "RelativeToolTip": "Game Co Caro\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:24:52.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Form1.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Form1.cs",
+              "RelativeToolTip": "Game Co Caro\\Form1.cs",
+              "ViewState": "AgIAACkCAAAAAAAAAAAAwNUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:19:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Game Co Caro\\Form1.cs",
+              "ToolTip": "D:\\Game-Co-Caro-master\\Game Co Caro\\Game Co Caro\\Form1.cs [Design]",
+              "RelativeToolTip": "Game Co Caro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:33.137Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
